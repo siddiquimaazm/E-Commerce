@@ -81,10 +81,10 @@ p{
     position:relative;
 } 
 .home .home-banner-1{
-    background-image:url('../Project1/images/banner1.jpeg');
+    background-image:url('images/banner1.jpeg');
 }
 .home .home-banner-2{
-    background-image:url('../Project1/images/banner2.jpg');
+    background-image:url('images/banner2.jpg');
 }
 .home .home-banner .home-banner-text{
     position:absolute;
